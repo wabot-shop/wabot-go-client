@@ -1,5 +1,4 @@
 
----
 
 ## Go (Golang) Wabot API Client
 
